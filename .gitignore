@@ -2,6 +2,7 @@
 
 # Used by intellij
 /.idea
+*.iml
 
 *.gem
 *.rbc
